@@ -30,16 +30,7 @@ public class MainActivity extends Activity {
 //			{R.drawable.photo3},
 //			{R.drawable.photo4, R.drawable.photo5, R.drawable.photo6}
 //	};
-	//图片大，会很卡
-//	private final int[][] pictures = {
-//			{R.drawable.girl_1,R.drawable.girl_1,R.drawable.girl_1},			
-//			{R.drawable.girl_2,R.drawable.girl_2},
-//			{R.drawable.girl_3,R.drawable.girl_3},
-//			{R.drawable.girl_4},
-//			{R.drawable.girl_5},
-//			{R.drawable.girl_6,R.drawable.girl_6,R.drawable.girl_6}
-//	};
-	
+
 	private final int[][] pictures = {
 			{R.drawable.autumn_1,R.drawable.autumn_1,R.drawable.autumn_1},
 			{R.drawable.autumn_2,R.drawable.autumn_2,R.drawable.autumn_2,R.drawable.autumn_2},
